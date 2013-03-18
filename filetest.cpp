@@ -2,8 +2,8 @@
 //  filetest.cpp
 //
 //  Created by Ethan Lusterman on 3/17/13.
-//	The Cooper Union, Electrical Engineering Dept
-//	ECE164 Data Structures & Algorithms I, Spring 2013
+//  The Cooper Union, Electrical Engineering Dept
+//  ECE164 Data Structures & Algorithms I, Spring 2013
 
 #include <iostream>
 #include <fstream>
